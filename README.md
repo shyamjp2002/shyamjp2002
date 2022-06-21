@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shyamjp2002
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Front end development (only mere knowledge)
-- 💞️ I’m looking to collaborate on Front end projects
+- 🌱 I’m currently learning Back-end development 
+- 💞️ I’m looking to collaborate on Back end projects
 - 📫 How to reach me ...email-id : shyamjp2002@gmail.com
 
 <!---
